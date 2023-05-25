@@ -15,7 +15,7 @@ public class OdontologoService {
     public Odontologo guardarOdontologo(Odontologo odontologo) {
         return odontologoIDao.guardar(odontologo);
     }
-    
+
 
     public List<Odontologo> listarOdontologos() {
         return odontologoIDao.listarTodos();
