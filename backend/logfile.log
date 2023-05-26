@@ -8,3 +8,17 @@
 [2023-05-25 21:02:52] [ INFO ] [OdontologoDaoH2:79] Listado de todos los odontologos: [Odontologo: id: 1, nroDeMatricula: 103, nombre: 'Sergio', apellido: 'Marquez', Odontologo: id: 2, nroDeMatricula: 104, nombre: 'Mauro', apellido: 'Mascheroni', Odontologo: id: 3, nroDeMatricula: 105, nombre: 'Martin', apellido: 'Pardo']
 [2023-05-25 21:14:47] [ INFO ] [OdontologoDaoH2:79] Listado de todos los odontologos: [Odontologo: id: 1, nroDeMatricula: 103, nombre: 'Sergio', apellido: 'Marquez', Odontologo: id: 2, nroDeMatricula: 104, nombre: 'Mauro', apellido: 'Mascheroni', Odontologo: id: 3, nroDeMatricula: 105, nombre: 'Martin', apellido: 'Pardo']
 [2023-05-25 21:14:47] [ INFO ] [OdontologoDaoH2:37] Se ha registrado el odontologo: Odontologo: id: 4, nroDeMatricula: 12345, nombre: 'NombrePrueba', apellido: 'ApellidoPrueba'
+[2023-05-25 21:59:42] [ INFO ] [OdontologoDaoH2:79] Listado de todos los odontologos: [Odontologo: id: 1, nroDeMatricula: 103, nombre: 'Sergio', apellido: 'Marquez', Odontologo: id: 2, nroDeMatricula: 104, nombre: 'Mauro', apellido: 'Mascheroni', Odontologo: id: 3, nroDeMatricula: 105, nombre: 'Martin', apellido: 'Pardo']
+[2023-05-25 21:59:42] [ INFO ] [OdontologoDaoEnMemoria:20] Odontologo guardado: Odontologo: id: 0, nroDeMatricula: 133, nombre: 'Sebastian', apellido: 'Martinez'
+[2023-05-25 21:59:42] [ INFO ] [OdontologoDaoEnMemoria:20] Odontologo guardado: Odontologo: id: 0, nroDeMatricula: 135, nombre: 'Laura', apellido: 'Fernandez'
+[2023-05-25 21:59:42] [ INFO ] [OdontologoDaoEnMemoria:26] Listado de todos los odontologos: 
+[Odontologo: id: 0, nroDeMatricula: 133, nombre: 'Sebastian', apellido: 'Martinez', Odontologo: id: 0, nroDeMatricula: 135, nombre: 'Laura', apellido: 'Fernandez']
+[2023-05-25 21:59:42] [ INFO ] [OdontologoDaoEnMemoria:26] Listado de todos los odontologos: 
+[Odontologo: id: 0, nroDeMatricula: 133, nombre: 'Sebastian', apellido: 'Martinez', Odontologo: id: 0, nroDeMatricula: 135, nombre: 'Laura', apellido: 'Fernandez']
+[2023-05-25 22:01:50] [ INFO ] [OdontologoDaoH2:79] Listado de todos los odontologos: [Odontologo: id: 1, nroDeMatricula: 103, nombre: 'Sergio', apellido: 'Marquez', Odontologo: id: 2, nroDeMatricula: 104, nombre: 'Mauro', apellido: 'Mascheroni', Odontologo: id: 3, nroDeMatricula: 105, nombre: 'Martin', apellido: 'Pardo']
+[2023-05-25 22:01:50] [ INFO ] [OdontologoDaoEnMemoria:20] Odontologo guardado: Odontologo: id: 1, nroDeMatricula: 133, nombre: 'Sebastian', apellido: 'Martinez'
+[2023-05-25 22:01:50] [ INFO ] [OdontologoDaoEnMemoria:20] Odontologo guardado: Odontologo: id: 2, nroDeMatricula: 135, nombre: 'Laura', apellido: 'Fernandez'
+[2023-05-25 22:01:50] [ INFO ] [OdontologoDaoEnMemoria:26] Listado de todos los odontologos: 
+[Odontologo: id: 1, nroDeMatricula: 133, nombre: 'Sebastian', apellido: 'Martinez', Odontologo: id: 2, nroDeMatricula: 135, nombre: 'Laura', apellido: 'Fernandez']
+[2023-05-25 22:01:50] [ INFO ] [OdontologoDaoEnMemoria:26] Listado de todos los odontologos: 
+[Odontologo: id: 1, nroDeMatricula: 133, nombre: 'Sebastian', apellido: 'Martinez', Odontologo: id: 2, nroDeMatricula: 135, nombre: 'Laura', apellido: 'Fernandez']
