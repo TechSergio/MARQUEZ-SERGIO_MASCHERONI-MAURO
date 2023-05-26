@@ -72,7 +72,7 @@ public class OdontologoDaoH2 implements IDao<Odontologo> {
             PreparedStatement ps = connection.prepareStatement("SELECT * FROM ODONTOLOGOS");
             ResultSet rs = ps.executeQuery();
             while (rs.next()) {
-                Odontologo odontologo = new Odontologo(rs.getInt(1), rs.getString(2), rs.getString(3));
+                Odontologo odontologo = new Odontologo(rs.getInt(1), rs.getInt(2),rs.getString(3), rs.getString(4));
                 odontologos.add(odontologo);
             }
 
